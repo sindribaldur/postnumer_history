@@ -46,15 +46,15 @@ Póstnúmer;Staður;Tegund;Svæði;Heimilisfang;Eldra póstnúmer
 235;Keflavíkurflugvelli;Stærra dreifbýli;Suðurland og Reykjanes; ;
 240;Grindavík;Stærra dreifbýli;Suðurland og Reykjanes; ;
 241;Grindavík;Dreifbýli;Suðurland og Reykjanes; ;240
-245;Suðurnesjabæ;Stærra dreifbýli;Suðurland og Reykjanes; ;
-246;Suðurnesjabæ;Dreifbýli;Suðurland og Reykjanes; ;245
-250;Suðurnesjabæ;Stærra dreifbýli;Suðurland og Reykjanes; ;
-251;Suðurnesjabæ;Dreifbýli;Suðurland og Reykjanes; ;250
+245;Sandgerði;Stærra dreifbýli;Suðurland og Reykjanes; ;
+246;Sandgerði;Dreifbýli;Suðurland og Reykjanes; ;245
+250;Garður;Stærra dreifbýli;Suðurland og Reykjanes; ;
+251;Garður;Dreifbýli;Suðurland og Reykjanes; ;250
 260;Reykjanesbæ;Stærra dreifbýli;Suðurland og Reykjanes; ;
 262;Reykjanesbæ;Stærra dreifbýli;Suðurland og Reykjanes; ;235
 270;Mosfellsbæ;Stærra dreifbýli;Höfuðborgarsvæðið; ;
 271;Mosfellsbæ;Stærra dreifbýli;Höfuðborgarsvæðið; ;
-276;Mosfellsbæ;Stærra dreifbýli;Höfuðborgarsvæðið; ;
+276;Kjós;Stærra dreifbýli;Höfuðborgarsvæðið; ;
 300;Akranesi;Stærra dreifbýli;Vesturland og Vestfirðir; ;
 301;Akranesi;Dreifbýli;Vesturland og Vestfirðir; ;
 302;Akranesi;Pósthólf;Vesturland og Vestfirðir; ;
